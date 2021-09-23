@@ -1,0 +1,18 @@
+body {
+  background-color: beige;
+}
+p {
+  text-transform: capitalize;
+  font-size: 2rem;
+}
+nav {
+  box-sizing: border-box;
+  border-bottom: 1px solid rgb(172, 169, 169);
+}
+nav ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color:#000;
+}
